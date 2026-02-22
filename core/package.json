@@ -48,7 +48,7 @@
     "@trpc/client": "^11.5.0",
     "@trpc/server": "^11.4.4",
     "@types/ws": "^8.18.1",
-    "ajv": "^8.17.1",
+    "ajv": "^8.18.0",
     "ajv-formats": "^3.0.1",
     "archiver": "^7.0.1",
     "async": "^3.2.6",
